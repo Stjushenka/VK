@@ -117,7 +117,7 @@ public class Post {
     //like — Виджет «Мне нравится» (для type = widget);
     //poll — Виджет опросов (для type = widget);
 
-    //url string	URL ресурса, с которого была опубликована запись.
+    //url string	URL ресурса, с которого была опубликована запись
 
 
 }
